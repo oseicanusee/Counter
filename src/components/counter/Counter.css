@@ -1,0 +1,32 @@
+body {
+  padding: 20px;
+}
+
+button{
+  background-color: green;
+  font-size: 16x;
+  padding: 15px 30px;
+  color: white;
+  width: 100px;
+}
+
+button:hover{
+  background-color: gray;
+}
+
+.count{
+  font-size: 100px;
+  padding: 15px 30px;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+.counter{
+  padding-bottom: 10px;
+}
+
+.reset{
+  background-color: red;
+  width: 200px;
+}
+
